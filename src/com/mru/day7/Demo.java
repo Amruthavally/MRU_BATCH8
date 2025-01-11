@@ -6,6 +6,6 @@ public class Demo {
 		System.out.println("MRU1");
 		System.out.println("MRU2");
 
-	}
+			}
 
 }
